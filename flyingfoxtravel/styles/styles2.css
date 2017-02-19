@@ -1099,12 +1099,12 @@ a {
   }
 
   #features-lhs {
-    position: absolute;
+    position: relative;;
     left: -1000px;
   }
 
   #features-rhs {
-    position: absolute;
+    position: relative;
     right: -1000px;
   }
 
